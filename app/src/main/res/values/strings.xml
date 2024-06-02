@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="section">Section 1</string>
+    <string name="ac_cleaning">Ac Cleaning</string>
+    <string name="_0_0">$ 0.0</string>
+    <string name="if_yes_please_add_this">if yes please add this</string>
+    <string name="section_1">Section 1</string>
+    <string name="save_and_continue">Save and Continue</string>
+</resources>
